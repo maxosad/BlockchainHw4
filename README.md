@@ -1,3 +1,4 @@
+```
 contracts for tokens
 MyToken.sol
 YourToken.sol
@@ -6,9 +7,9 @@ YourToken.sol
 put your key in .env
 .env example 
 
-```
+
 ALCHEMY_API_KEY=123456789qwertyuiasdfghjkzxcvbnw
-```
+
 
 Test
 Creates 2 tokens.
@@ -17,7 +18,6 @@ add liquidity for that pair
 make swap 
 
 
-```
 npx hardhat test
 
   Swap
